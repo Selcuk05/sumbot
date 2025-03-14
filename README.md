@@ -13,4 +13,5 @@ Discord bot that summarizes text content in websites and files using AI
 
 ```text
 GEMINI_API_KEY=<your Gemini API key>
+DISCORD_TOKEN=<your Discord Bot Token>
 ```
